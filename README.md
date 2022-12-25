@@ -2,9 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is a starting point and end point
+project UI
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/107292843/209472711-76de2664-b546-48e2-afb2-ca279f9687b1.png)
 
